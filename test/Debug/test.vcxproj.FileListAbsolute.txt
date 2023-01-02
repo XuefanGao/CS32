@@ -1,0 +1,2 @@
+C:\Users\sophi\Desktop\UCLA\Course Works\CS\CS32\test\Debug\test.exe
+C:\Users\sophi\Desktop\UCLA\Course Works\CS\CS32\test\Debug\test.pdb

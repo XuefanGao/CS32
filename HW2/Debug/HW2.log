@@ -1,0 +1,8 @@
+﻿  eval.cpp
+C:\Users\sophi\Desktop\UCLA\Course Works\CS\CS32\HW2\eval.cpp(19,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sophi\Desktop\UCLA\Course Works\CS\CS32\HW2\eval.cpp(31,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sophi\Desktop\UCLA\Course Works\CS\CS32\HW2\eval.cpp(73,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sophi\Desktop\UCLA\Course Works\CS\CS32\HW2\eval.cpp(93,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sophi\Desktop\UCLA\Course Works\CS\CS32\HW2\eval.cpp(103,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sophi\Desktop\UCLA\Course Works\CS\CS32\HW2\eval.cpp(160,23): warning C4018: '<': signed/unsigned mismatch
+  HW2.vcxproj -> C:\Users\sophi\Desktop\UCLA\Course Works\CS\CS32\HW2\Debug\HW2.exe

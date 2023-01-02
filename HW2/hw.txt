@@ -1,0 +1,39 @@
+2.
+4   6
+3   6
+5   6
+5   7
+5   8
+6   8
+7   8
+8   8
+8   7
+6   6
+4   5
+4   4
+
+
+
+
+
+4.
+5   6
+3   6
+4   4
+6   6
+5   7
+4   3
+5   4
+5   8
+4   2
+6   4
+6   8
+4   1
+6   3
+
+
+When visiting the neighboring cells of a specific cell, 
+since stack is FILO, stack pushes the neighboring cells of the "latest" pushed cell, 
+meanwhile queue is FIFO, queue pushed the neighboring cell of the "earliest" pushed cell.
+Therefore they visit cells in the maze in a different order.
+
